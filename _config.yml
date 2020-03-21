@@ -8,16 +8,16 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
+  name: dubonstudio # REQUIRED - Enter your app name
   ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
-  icon: # Leave blank to auto-magically populate
+  icon: images/dubon512.jpg # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
 
-  #favicon: # uncomment if uploading own favicon
+  favicon: images/favicon.png # uncomment if uploading own favicon
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-favicon.png - can be .ico or .png
   # 16px or greater, square
@@ -42,8 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#marketing_header: dubonstudio # Optional
+marketing_desc: Become a funny climate activist
 
 #
 # Social Links
@@ -93,7 +93,7 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
+title: Dubonstudio # Optional - Enter your site title
 description: # Optional - Enter your site description
 
 #
