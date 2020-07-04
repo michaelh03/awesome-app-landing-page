@@ -9,7 +9,7 @@
 #
 app:
   name: dubonstudio # REQUIRED - Enter your app name
-  ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  ios_id: 1522139402 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: images/dubon512.jpg # Leave blank to auto-magically populate
@@ -93,7 +93,7 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: Dubonstudio # Optional - Enter your site title
+title: dubonstudio # Optional - Enter your site title
 description: # Optional - Enter your site description
 
 #
